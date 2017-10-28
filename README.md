@@ -1,5 +1,5 @@
 # StlyTransfer
-Machine Learning Style Transfer
+Machine Learning Style Transfer Study
 
 ## Related Research Paper
 
