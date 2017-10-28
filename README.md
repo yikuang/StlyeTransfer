@@ -1,4 +1,4 @@
-# StlyTransfer
+# Stlye Transfer
 Machine Learning Style Transfer Study
 
 ## Related Research Paper
