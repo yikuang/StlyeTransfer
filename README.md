@@ -1,5 +1,5 @@
 # Stlye Transfer
-Machine Learning Style Transfer Study
+CNN Style Transfer Study
 
 ## Related Research Paper
 
